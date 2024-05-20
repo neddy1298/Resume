@@ -1,0 +1,40 @@
+{
+  "portfolio1": {
+    "title": "Streamlt",
+    "category": "app",
+    "image1": "assets/img/portfolio/streamlt/home_ui.png",
+    "image2": "assets/img/portfolio/streamlt/discover_ui.png",
+    "image3": "assets/img/portfolio/streamlt/login_ui.png",
+    "details": {
+      "client": "Self Project.",
+      "projectDate": "August 2023",
+      "projectURL": "https://github.com/neddy1298/streamlt",
+      "description": "An Mobile app designed to stream movies and tv shows, discover new movies and tv shows, and manage your watchlist."
+    }
+  },
+  "portfolio2": {
+    "title": "Code Crafters",
+    "category": "web",
+    "image1": "assets/img/portfolio/code_crafters/home.png",
+    "image2": "assets/img/portfolio/code_crafters/portfolio.png",
+    "details": {
+      "client": "Self Project.",
+      "projectDate": "February 2024",
+      "projectURL": "https://project-1.neddyap.live",
+      "description": "Simple Landing Page for a fictional web development company, showcasing services, portfolio, and contact information."
+    }
+  },
+  "portfolio3": {
+    "title": "Finance Manager",
+    "category": "app",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
+    "details": {
+      "client": "WealthWise Advisors",
+      "projectDate": "September 2023",
+      "projectURL": "www.financemanagerapp.com",
+      "description": "An intuitive web application for financial planning, budgeting, and investment tracking, offering insights for better financial management."
+    }
+  }
+}
