@@ -29,6 +29,8 @@ fetch('assets/js/portfolio.json')
             document.querySelector('#projectDate-text').textContent = portfolioItem.details.projectDate;
             document.querySelector('#projectUrl-text').textContent = portfolioItem.details.projectURL;
             document.querySelector('#projectUrl-text').href = portfolioItem.details.projectURL;
+            document.querySelector('#projectRepo-text').textContent = portfolioItem.details.projectRepo;
+            document.querySelector('#projectRepo-text').href = portfolioItem.details.projectRepo;
             document.querySelector('#project-image-1').src = portfolioItem.image1;
             document.querySelector('#project-image-2').src = portfolioItem.image2;
             document.querySelector('#project-image-3').src = portfolioItem.image3;
